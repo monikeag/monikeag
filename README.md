@@ -1,6 +1,6 @@
 Hi there 👩‍💻
 
-Me chamo Monique Aguiar e moro no Rio de Janeiro 🥵! Estou em transição de carreia para DEV. Fiz um curso voltado para Desenvolvimento WE, pois, tenho experiência em projetos No-code no Wordpress e queria aprender também como criar com HTML e CSS💜. Comecei mesmo nas aulas do Gustavo Guanabara com a linguagem Python, que eu gostei muito! Fui parando e voltando, por motivo de trabalho na área atual. Mas sempre que dá estou estudando. Fui para outra linguagem que é o JAVA, mas estou no inicio e, por enquanto, não estou odiando 😅. Por que comecei estudar JAVA? Entrei, por indicação, em um Bootcamp. 
+Me chamo Monique Aguiar e moro no Rio de Janeiro 🥵! Estou em transição de carreia para DEV. Fiz um curso voltado para Desenvolvimento WEB, pois, como tenho experiência em projetos No-code no Wordpress, queria também aprender a criar com HTML e CSS💜. Comecei mesmo nas aulas do Gustavo Guanabara com a linguagem Python, que eu gostei muito! Fui parando e voltando, por motivo de trabalho na área atual. Mas sempre que dá estou estudando. Fui para outra linguagem que é o JAVA, mas estou no inicio e, por enquanto, não estou odiando 😅. Por que comecei estudar JAVA? Entrei, por indicação, em um Bootcamp. 
 
 Aqui você poderá ver alguns projetos envolvendo:
 
