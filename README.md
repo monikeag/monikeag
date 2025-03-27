@@ -3,19 +3,22 @@ Hi there 👩‍💻
 Me chamo Monique Aguiar e moro no Rio de Janeiro 🥵! Estou em transição de carreia para DEV. Fiz um curso voltado para Desenvolvimento WEB, pois, como tenho experiência em projetos No-code no Wordpress, queria também aprender a criar com HTML e CSS💜. Meu inicio na programação foi mesmo nas aulas do Gustavo Guanabara com a linguagem Python lá em 2021. Eu gostei muito, mas me senti perdida no que fazer, e parei. Fui parando e voltando, por motivo de trabalho na área na qual estava. Mas sempre que dava estava estudando. Uma colega fez um START e viu que eu também estava atrás da minha primeira vaga na área Tech, foi então que ela me apresentou uma trilha JAVA e comecei a estudar. É uma linguagem que todos colocam medo como a pior, mas por enquanto, não estou odiando 😅. Continuo na saga entre aprender uma nova Linguagem e conseguir uma vaga e criar meus projetos No-Code para pagar minha faculdade. 
 
 Aqui você poderá ver alguns projetos envolvendo:
-
-
- - <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Logo Java" /> 
- - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Logo Python" />
-
+ 
  - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Logo HTML" />  
  - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Logo CSS"/>
-
  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Logo Javascript"/>  
  - <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Logo Figma" />
+ - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Logo Python" />
 
 
+A linguagem que estou atualmente em enfâse:
+- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Logo Java" />
+- <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Logo Kotlin" />
 
+IDE's que tenho conhecimento:
+- <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Logo Android" />
+- <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VsCode" />
+- <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="Intellij Idea" />
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monikeag&theme=blue-green)
