@@ -14,7 +14,6 @@ Aqui você poderá ver alguns projetos envolvendo:
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monikeag&layout=compact)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monikeag&theme=blue-green)
 
