@@ -28,7 +28,7 @@ Minhas Redes Sociais, onde você poderá ver meus projetos No-code 🌐:
 
 
 
-![Monique GitHub stats](https://github-readme-stats.vercel.app/api?username=monikeag&show_icons=true&theme=radical)
+![Monique GitHub stats](https://github-readme-stats.vercel.app/api?username=monikeag&show_icons=true&theme=blue-green)
 
 
 
