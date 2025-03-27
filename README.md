@@ -16,6 +16,8 @@ Aqui você poderá ver alguns projetos envolvendo:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monikeag&layout=compact)
 
+https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+
 
 Minhas Redes Sociais, onde você poderá ver meus projetos No-code 🌐:
 
