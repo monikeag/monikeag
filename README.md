@@ -11,7 +11,7 @@ Aqui você poderá ver alguns projetos envolvendo:
  - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Logo Python" />
 
 
-A linguagem que estou atualmente em enfâse nos estudos:
+A linguagem que estou atualmente tentando entender:
 - <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Logo Java" />
 - <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Logo Kotlin" />
 
