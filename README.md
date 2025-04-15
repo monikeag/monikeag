@@ -1,7 +1,8 @@
 Olá 👩🏼‍💻!
 
-Me chamo Monique Aguiar e moro no Rio de Janeiro 🥵! Estou em transição de carreia para DEV. Fiz um curso voltado para Desenvolvimento WEB, pois, como tenho experiência em projetos Low-code no Wordpress e queria também aprender a entender e criar com HTML e CSS💜. 
-Meu inicio na programação foi mesmo nas aulas do Gustavo Guanabara com a linguagem Python lá em 2021. Eu gostei muito, mas me senti perdida no que fazer, e parei. Fui parando e voltando, por motivo de trabalho na área na qual estava. Mas sempre que dava, estava estudando. Uma colega fez um START e viu que eu também estava atrás da minha primeira vaga na área Tech, foi então que ela me apresentou uma trilha JAVA e comecei a estudar. É uma linguagem que todos colocam medo como a pior, mas por enquanto, não estou odiando 😅. Continuo na saga entre aprender uma nova Linguagem, conseguir uma vaga e criar meus projetos Low-Code para pagar minha faculdade. 
+Me chamo Monique Aguiar e moro no Rio de Janeiro 🥵! Estou em transição de carreia, do RH para DEV. Atualmente, cursando 1º periodo em Análise e Desenvolvimento de Sistemas.
+Vejas meus projetos e sinta à vomtade para enviar feedbacks.
+
 
 Aqui você poderá ver alguns projetos envolvendo:
  
